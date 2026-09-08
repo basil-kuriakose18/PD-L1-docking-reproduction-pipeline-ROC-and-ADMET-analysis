@@ -1,0 +1,11 @@
+receptor = docking/receptor_pdbqt/7DY7_receptor.pdbqt
+ligand = docking/ligands_pdbqt/native_ligand.pdbqt
+center_x = 144.2
+center_y = -13.2
+center_z = 19.8
+size_x = 20
+size_y = 20
+size_z = 20
+exhaustiveness = 8
+out = results/native_ligand_redock.pdbqt
+log = results/native_ligand_redock.log

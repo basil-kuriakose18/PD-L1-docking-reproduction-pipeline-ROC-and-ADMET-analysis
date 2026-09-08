@@ -1,0 +1,63 @@
+Subgroup,No,Compound,Source,CAS_No,Affinity_kcal_mol,MD_Simulation
+Flavonols,1,Quercetin,Apples,117-39-5,-8.7,Yes
+Flavonols,2,Kaempferol,Broccoli,520-18-3,-7.6,No
+Flavonols,3,Myricetin,Walnuts,529-44-2,-8.5,No
+Flavonols,4,Fisetin,Strawberries,528-48-3,-9.5,Yes
+Flavonols,5,Rutin,Buckwheat,153-18-4,-8.4,No
+Flavonols,6,Isorhamnetin,Pears,480-19-3,-8.2,No
+Flavonols,7,Morin,Osage orange,480-16-0,-8.0,No
+Flavonols,8,Ginkgetin,Ginkgo biloba,481-46-9,-10.5,Yes
+Flavonols,9,Galangin,Propolis,548-83-4,-10.4,Yes
+Flavonols,10,Robinetin,Acacia,490-31-3,-9.2,Yes
+Flavan-3-ols,11,Catechin,Tea,18829-70-4,-7.3,No
+Flavan-3-ols,12,Epicatechin,Dark chocolate,490-46-0,-8.5,Yes
+Flavan-3-ols,13,ECG,Green tea,1257-08-5,-8.2,Yes
+Flavan-3-ols,14,EGC,Green tea,970-74-1,-8.6,Yes
+Flavan-3-ols,15,EGCG,Green tea,989-51-5,-8.5,Yes
+Flavan-3-ols,16,Theaflavin,Black tea,4670-05-7,-9.2,Yes
+Flavan-3-ols,17,Theaflavin-3-gallate,Black tea,28543-07-9,-7.6,No
+Flavan-3-ols,18,Procyanidin B1,Apples,20315-25-7,-7.1,No
+Flavan-3-ols,19,Procyanidin B2,Apples,29106-49-8,-6.8,No
+Flavan-3-ols,20,Procyanidin C1,Cocoa,37064-30-5,-1.5,No
+Flavones,21,Apigenin,Chamomile,520-36-5,-9.0,Yes
+Flavones,22,Luteolin,Celery,491-70-3,-8.8,No
+Flavones,23,Baicalein,Chinese skullcap,491-67-8,-10.0,Yes
+Flavones,24,Chrysin,Honey,480-40-0,-9.9,Yes
+Flavones,25,Tangeretin,Tangerine,481-53-8,-8.1,No
+Flavones,26,Nobiletin,Citrus fruits,478-01-3,-8.2,No
+Flavones,27,Wogonin,Scutellaria baicalensis,632-85-9,-8.4,No
+Flavones,28,Diosmin,Citrus fruits,520-27-4,-9.6,Yes
+Flavones,29,Acacetin,Chamomile,480-44-4,-8.9,No
+Flavones,30,Scutellarein,Scutellaria species,529-53-3,-9.3,Yes
+Isoflavones,31,Genistein,Soybeans,446-72-0,-9.0,No
+Isoflavones,32,Daidzein,Soybeans,486-66-8,-9.6,Yes
+Isoflavones,33,Glycitein,Soy products,40957-83-3,-9.0,No
+Isoflavones,34,Formononetin,Red clover,485-72-3,-9.1,Yes
+Isoflavones,35,Biochanin A,Red clover,491-80-5,-8.9,No
+Isoflavones,36,Sissotrin,Red clover,5928-26-7,-7.7,No
+Isoflavones,37,Puerarin,Kudzu vine,3681-99-0,-9.0,No
+Isoflavones,38,Coumestrol,Clover,479-13-0,-9.6,Yes
+Isoflavones,39,Equol,Soy derivatives,531-95-3,-9.2,Yes
+Isoflavones,40,Prunetin,Prunes,552-59-0,-9.1,Yes
+Anthocyanidins,41,Cyanidin,Berries,13306-05-3,-8.7,Yes
+Anthocyanidins,42,Delphinidin,Berries,13270-61-6,-7.9,Yes
+Anthocyanidins,43,Malvidin,Grapes,10463-84-0,-7.8,No
+Anthocyanidins,44,Pelargonidin,Strawberries,7690-51-9,-7.9,No
+Anthocyanidins,45,Peonidin,Berries,134-01-0,-7.9,Yes
+Anthocyanidins,46,Petunidin,Berries,1429-30-7,-7.9,Yes
+Anthocyanidins,47,Rosinidin,Rhododendrons,4092-64-2,-7.8,No
+Anthocyanidins,48,Capensinidin,Capensia flowers,19077-85-1,-7.6,No
+Anthocyanidins,49,Callistephin,Strawberries,18466-51-8,-7.5,No
+Anthocyanidins,50,Idaein,Lingonberries,27661-36-5,-8.4,Yes
+Flavanones,51,Hesperidin,Citrus fruits,520-26-3,-9.5,Yes
+Flavanones,52,Naringenin,Grapefruits,480-41-1,-9.0,Yes
+Flavanones,53,Eriodictyol,Lemons,552-58-9,-8.8,No
+Flavanones,54,Isosakuranetin,Citrus fruits,480-43-3,-7.1,No
+Flavanones,55,Naringin,Grapefruit,10236-47-2,-8.2,No
+Flavanones,56,Neohesperidin,Citrus fruits,13241-33-3,-9.4,Yes
+Flavanones,57,Sakuranetin,Cherries,2957-21-3,-8.3,No
+Flavanones,58,Sterubin,Yerba santa,51857-11-5,-8.5,No
+Flavanones,59,Pinocembrin,Honey,480-39-7,-9.7,Yes
+Flavanones,60,Hesperetin,Citrus fruits,520-33-2,-8.9,Yes
+Inhibitors,61,BMS-202,Bristol Myers Squibb,1675203-84-5,-10.9,Yes
+Inhibitors,62,BMS-1166,Bristol Myers Squibb,1818314-88-3,-10.6,Yes

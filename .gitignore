@@ -1,0 +1,21 @@
+# RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Bulky regenerable docking inputs (rebuild via R/00_explore_data.R)
+docking/ligands_pdbqt/
+docking/receptor_pdbqt/
+
+# Bulky regenerable raw data, except the core structure table
+data/raw/*
+!data/raw/ligand_structures.csv
+
+# Per-ligand raw docking outputs and checkpoint files (summary CSVs are kept)
+results/*_docked.pdbqt
+results/*_docked.log
+results/*_partial.csv
+
+# Redocking validation raw outputs
+results/native_ligand_*
